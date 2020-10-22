@@ -88,7 +88,7 @@ In my classification I attempt to use the following models with the following co
 
     Support Vector Classifier: 90.88 Accuracy
 
-    Neural Network: 97.27 Accuracy
+    Neural Network: 97.92 Accuracy
 
 Due to the high accuracy of all my models I stuck with the logistical regression since it gives me interpretable coefficients. From our results we can see...
 
@@ -98,7 +98,7 @@ Based off of these results I wanted to see, holding all other variables constant
 
     Test Score: .86
     
-My Model returned All_Star with a coefficient of 76.87. That is to say that being an All-Star in the NBA inceases your Free Throw Attemps count by roughly 77 shots. 
+My Model returned All_Star with a coefficient of 76.16. That is to say that being an All-Star in the NBA inceases your Free Throw Attemps count by roughly 77 shots. 
  
 
 ## Slides:
